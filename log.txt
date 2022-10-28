@@ -1,2 +1,7 @@
-Making request for date:  2018-04-21
-Total requests:  1
+Making request for date:  2018-05-01
+Making request for date:  2018-05-11
+Making request for date:  2018-05-21
+Making request for date:  2018-06-01
+Making request for date:  2018-06-11
+Making request for date:  2018-06-21
+Total requests:  6
