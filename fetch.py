@@ -1,13 +1,11 @@
 import requests
+import time
 
 api_keys = ["ccaf284e2c7322650b4d22edc05ff7b4", "423878ba73d398385d87b8559c20e1c6", "cb433c0cde9836c90855b92accd64610", "68dc4fe85dbc39ec214f7aedc31d7f2a", "f28908d63b6e854b52b894fa2f8b366e", "e02e1773d2da251380a9c73ee38396e8"]
 
 # years = list(range(2018,2023)
-years = [2020]
-# months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
-months = ["01", "02", "03", "04"]
-# months = ["05", "06", "07", "08"]
-# months = ["09", "10", "11", "12"]
+years = [2021, 2022]
+months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
 days = ["01", "11", "21"]
 
 
@@ -28,6 +26,15 @@ for year in years:
             if(response.text=="Exceeding allowed transaction limit."):
                 counter -= 1
                 print("Request for:{date} failed with error message:{error}".format(date=date_string, error=response.text))
+                time.sleep(720) # sleep for 12 minutes
+                print("Retrying request for:{date}".format(date_string))
+                response = request.get(url)
+                if(response.text=="Exceeding allowed transaction limit."):
+                    print("Failed second attempt for:{date}".format(date_string))
+                    exit()
+                f = open(date_string+".csv", "w")
+                f.write(response.text)
+                continue
             else:
                 f = open(date_string+".csv", "w")
                 f.write(response.text)
