@@ -1,0 +1,81 @@
+Making request for date:  2021-01-01
+Making request for date:  2021-01-11
+Making request for date:  2021-01-21
+Making request for date:  2021-02-01
+Making request for date:  2021-02-11
+Making request for date:  2021-02-21
+Making request for date:  2021-03-01
+Making request for date:  2021-03-11
+Making request for date:  2021-03-21
+Making request for date:  2021-04-01
+Making request for date:  2021-04-11
+Making request for date:  2021-04-21
+Making request for date:  2021-05-01
+Request for:2021-05-01 failed with error message:Exceeding allowed transaction limit.
+Retrying request for:2021-05-01
+Making request for date:  2021-05-11
+Making request for date:  2021-05-21
+Making request for date:  2021-06-01
+Making request for date:  2021-06-11
+Making request for date:  2021-06-21
+Making request for date:  2021-07-01
+Making request for date:  2021-07-11
+Making request for date:  2021-07-21
+Making request for date:  2021-08-01
+Making request for date:  2021-08-11
+Making request for date:  2021-08-21
+Making request for date:  2021-09-01
+Request for:2021-09-01 failed with error message:Exceeding allowed transaction limit.
+Retrying request for:2021-09-01
+Making request for date:  2021-09-11
+Making request for date:  2021-09-21
+Making request for date:  2021-10-01
+Making request for date:  2021-10-11
+Making request for date:  2021-10-21
+Making request for date:  2021-11-01
+Making request for date:  2021-11-11
+Making request for date:  2021-11-21
+Making request for date:  2021-12-01
+Making request for date:  2021-12-11
+Making request for date:  2021-12-21
+Making request for date:  2022-01-01
+Request for:2022-01-01 failed with error message:Exceeding allowed transaction limit.
+Retrying request for:2022-01-01
+Making request for date:  2022-01-11
+Making request for date:  2022-01-21
+Making request for date:  2022-02-01
+Making request for date:  2022-02-11
+Making request for date:  2022-02-21
+Making request for date:  2022-03-01
+Making request for date:  2022-03-11
+Making request for date:  2022-03-21
+Making request for date:  2022-04-01
+Making request for date:  2022-04-11
+Making request for date:  2022-04-21
+Making request for date:  2022-05-01
+Request for:2022-05-01 failed with error message:Exceeding allowed transaction limit.
+Retrying request for:2022-05-01
+Making request for date:  2022-05-11
+Making request for date:  2022-05-21
+Making request for date:  2022-06-01
+Making request for date:  2022-06-11
+Making request for date:  2022-06-21
+Making request for date:  2022-07-01
+Making request for date:  2022-07-11
+Making request for date:  2022-07-21
+Making request for date:  2022-08-01
+Making request for date:  2022-08-11
+Making request for date:  2022-08-21
+Making request for date:  2022-09-01
+Making request for date:  2022-09-11
+Making request for date:  2022-09-21
+Making request for date:  2022-10-01
+Making request for date:  2022-10-11
+Making request for date:  2022-10-21
+Making request for date:  2022-11-01
+Making request for date:  2022-11-11
+Making request for date:  2022-11-21
+Making request for date:  2022-12-01
+Making request for date:  2022-12-11
+Making request for date:  2022-12-21
+Total requests:  68
