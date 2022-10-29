@@ -1,10 +1,13 @@
-Making request for date:  2018-10-01
-Making request for date:  2018-10-11
-Making request for date:  2018-10-21
-Making request for date:  2018-11-01
-Making request for date:  2018-11-11
-Making request for date:  2018-11-21
-Making request for date:  2018-12-01
-Making request for date:  2018-12-11
-Making request for date:  2018-12-21
-Total requests:  9
+Making request for date:  2019-09-01
+Making request for date:  2019-09-11
+Making request for date:  2019-09-21
+Making request for date:  2019-10-01
+Making request for date:  2019-10-11
+Making request for date:  2019-10-21
+Making request for date:  2019-11-01
+Making request for date:  2019-11-11
+Making request for date:  2019-11-21
+Making request for date:  2019-12-01
+Making request for date:  2019-12-11
+Making request for date:  2019-12-21
+Total requests:  12
